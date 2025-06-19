@@ -94,10 +94,12 @@ pubspec.yaml                    # App dependencies
 ## **Screenshots**
 
 ### 1. **Search Screen**  
-![Search Screen](https://via.placeholder.com/800x400.png?text=Search+Screen)
+![Search Screen]![image](https://github.com/user-attachments/assets/8b662707-9ae8-425c-866f-24cccf7caef9)
+(https://via.placeholder.com/800x400.png?text=Search+Screen)
 
 ### 2. **Trending Topics**  
-![Trending Topics](https://via.placeholder.com/800x400.png?text=Trending+Topics)
+![Trending Topics](![image](https://github.com/user-attachments/assets/21c0c8a4-86cd-44c1-926c-ae685ab49ce1)
+https://via.placeholder.com/800x400.png?text=Trending+Topics)
 
 ### 3. **User Profile**  
 ![User Profile](https://via.placeholder.com/800x400.png?text=User+Profile)
